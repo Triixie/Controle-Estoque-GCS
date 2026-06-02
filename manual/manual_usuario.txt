@@ -11,3 +11,5 @@ MANUAL DO USUÁRIO
 -Relatórios
 
 4. Salve as alterações
+
+5. O sistema permite consultar o histórico de movimentações.
