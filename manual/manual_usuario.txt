@@ -1,0 +1,13 @@
+MANUAL DO USUÁRIO
+
+1. Acesse o sistema 
+
+2. Faça login
+
+3. Selecione a opção desejada:
+-Cadastro de produtos
+-Entrada de estoque
+-Saída de estoque
+-Relatórios
+
+4. Salve as alterações
