@@ -1,0 +1,22 @@
+DOCUMENTO DE REQUISITOS
+
+Sistema: Controle de Estoque
+
+Objetivo:
+Permitir o controle de entrada e saída de produtos em um estoque.
+
+Requisitos Funcionais:
+-Cadastrar Produtos.
+-Consultar Produtos.
+-Registrar entrada de produtos.
+-Registrar saída de produtos.
+-Emitir relatório de estoque.
+
+Requisitos Não Funcionais:
+-Interface simples.
+-Resposta rápida.
+-Facilidade de uso.
+
+Usuários:
+-Administrador
+-Funcionário
